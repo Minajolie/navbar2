@@ -1,0 +1,36 @@
+
+body{
+    padding: 10px;
+    margin: 10px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    width: 100%;
+    margin: auto;
+    border: 1px solid;
+}
+.para{
+    border: 1px solid;
+    border-radius: 50px;
+    width: 60px;
+    height: 60px;
+    /* position: relative;
+    top: -10px; */
+    background-color: gray;
+    color: black;
+}
+.para p{
+    font-size: 1.2em;
+}
+
+span{
+    position: relative;
+    left: 13px;
+
+ 
+}
+.lien a{
+      color: gray;
+}
